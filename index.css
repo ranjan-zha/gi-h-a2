@@ -1,0 +1,74 @@
+body{
+ margin: 0px;
+}
+.formContainer{
+    height: 490px;
+    width: 450px;
+    margin: auto;
+    background-color: #fff; 
+    margin-top: 40px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.container{
+    height: 575px;
+    padding: 1px; 
+    background-image: linear-gradient(to bottom right,#753a88, #cc2b5e);
+}
+.formHeading{
+    text-align: center;
+    color: #333;
+}
+.formInputs{
+    margin: auto;
+    margin-left: 79px;
+    margin-top: 42px;
+}
+input{
+    width: 280px;
+    height: 30px;
+    border: 2px solid #aaa;
+    border-radius: 5px;
+    padding-left: 10px;
+    color: #666;
+    margin-bottom: 25px;
+}
+input:focus {
+    background-color: rgb(248, 239, 248);
+  }
+a{
+    text-decoration: none;
+    color:#da18e0 ;
+}
+#signupLink{
+    text-align: center;
+    padding: 0px;
+    margin-top: 25px;
+    width: 280px;
+    color: #666;
+}
+.links{
+    width: 280px;
+}
+.liginBtn{
+    width: 294px;
+    height: 25px;
+    padding: 1px;
+    background-image: linear-gradient(to bottom right,#753a88, #cc2b5e);
+    border-radius: 5px;
+    margin-top: 25px;
+    cursor: pointer;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+}
+.mtop{
+    margin-top: 0px;
+}
+#logInLink{
+    text-align: center;
+    padding: 0px;
+    margin-top: 5px;
+    width: 280px;
+    color: #666;
+}
